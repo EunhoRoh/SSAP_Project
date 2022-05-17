@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109271801467",
+    "project_id": "ssap-project-17126",
+    "storage_bucket": "ssap-project-17126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109271801467:android:d76a30ed3f3747435c8cde",
+        "android_client_info": {
+          "package_name": "com.example.ssap_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109271801467-kkl454b6bks3svq7ib7og460p6pb8kdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssap_project",
+            "certificate_hash": "4abf2fca58b209e8aae0ecffc809d6bb32516788"
+          }
+        },
+        {
+          "client_id": "109271801467-eu3458bu93r14ru05r3nu8qnrt7rhdc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKwZ2yjEDJFdJ-RrY3-KtrD0dBsycmSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109271801467-eu3458bu93r14ru05r3nu8qnrt7rhdc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
