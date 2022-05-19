@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import '../widgets/notification_blocks.dart';
 import 'login.dart';
 
 class Home extends StatelessWidget {
@@ -48,6 +49,7 @@ class Home extends StatelessWidget {
                   // ),
                 ],
               ),
+              NotificationBlock(),
             );
           }
         },
